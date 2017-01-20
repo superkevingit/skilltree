@@ -1,8 +1,13 @@
 # ReadMe
 
+阅读地址：
+
+[gitbook](superkevingit.gitbooks.io/skilltree/content/)
+
+
 用于整理技能点，对遇见的知识进行有一定深度的学习
 
-就让知识在这里沉淀下来
+让知识在这里沉淀下来
 
 ### 个人博客
 
