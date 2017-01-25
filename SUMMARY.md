@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Laravel](laravel.md)
+  * [laravel缓存和编译机制](laravel/laravel.md)
 * [Typecho](typecho.md)
   * [1.数据备份工具](1数据备份工具.md)
 * [工具库](工具库.md)
