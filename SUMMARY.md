@@ -16,4 +16,7 @@
 * [FrontEndTools](frontendtools.md)
   * [webpack](frontendtools/webpack.md)
     * [我要用bootstrap3](frontendtools/webpack/bootstrap3.md)
+* [Fundamental Algorithms](fundamental-algorithms.md)
+  * [1.名词](fundamental-algorithms/1..md)
+  * [2.学习方法](fundamental-algorithms/2..md)
 
