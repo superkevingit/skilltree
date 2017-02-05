@@ -11,3 +11,8 @@
     - 数组
         - 数组移动插入处右边所有元素或整体迁移
         - python的append方法：动态数组或向量
+        
+        
+append(): `theta(1)`
+
+insert(0,): `theta(n)`
