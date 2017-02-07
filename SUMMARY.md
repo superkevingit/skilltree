@@ -21,6 +21,7 @@
     * [dict](3./dict.md)
   * [4.位运算](4..md)
     * [1.基础](4./1..md)
+    * [2.实际用处](4./2..md)
 * [Laravel](laravel.md)
   * [laravel缓存和编译机制](laravel/laravel.md)
 * [Typecho](typecho.md)
