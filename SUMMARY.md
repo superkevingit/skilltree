@@ -3,7 +3,7 @@
 * [README](README.md)
 * [Design pattern](design-pattern.md)
   * [1.桥接模式](design-pattern/1..md)
-  * 2.享元模式
+  * [2.享元模式](design-pattern/2.yuan.md)
   * [3.外观模式](design-pattern/3..md)
 * [Fundamental Algorithms](fundamental-algorithms.md)
   * [1.名词](fundamental-algorithms/1..md)
