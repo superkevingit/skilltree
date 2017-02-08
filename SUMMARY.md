@@ -22,6 +22,11 @@
   * [4.位运算](4..md)
     * [1.基础](4./1..md)
     * [2.实际用处](4./2..md)
+* [CSS](css.md)
+  * [CSS基础](css/css.md)
+  * CSS3
+  * CSS黑魔法
+  * CSS预编辑器
 * [Laravel](laravel.md)
   * [laravel缓存和编译机制](laravel/laravel.md)
 * [Typecho](typecho.md)
@@ -31,9 +36,4 @@
     * [我要用bootstrap3](frontendtools/webpack/bootstrap3.md)
 * [工具库](工具库.md)
   * [1.番剧自动更名](1番剧自动更名.md)
-* [CSS](css.md)
-  * [CSS基础](css/css.md)
-  * CSS3
-  * CSS黑魔法
-  * CSS预编辑器
 
