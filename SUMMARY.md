@@ -1,15 +1,6 @@
 # Summary
 
 * [README](README.md)
-* [Design pattern](design-pattern.md)
-  * [1.桥接模式](design-pattern/1..md)
-  * [2.享元模式](design-pattern/2.yuan.md)
-  * [3.外观模式](design-pattern/3..md)
-* [Fundamental Algorithms](fundamental-algorithms.md)
-  * [1.名词](fundamental-algorithms/1..md)
-  * [2.学习方法](fundamental-algorithms/2..md)
-  * [3.渐近记法](fundamental-algorithms/3..md)
-  * [4.图与树的实现](fundamental-algorithms/4..md)
 * [Python](python.md)
   * [1.系统编程](系统编程.md)
     * [1.sys os 模块](1sys-os-模块.md)
@@ -28,13 +19,22 @@
   * CSS3
   * CSS黑魔法
   * CSS预编辑器
+* [FrontEndTools](frontendtools.md)
+  * [webpack](frontendtools/webpack.md)
+    * [我要用bootstrap3](frontendtools/webpack/bootstrap3.md)
 * [Laravel](laravel.md)
   * [laravel缓存和编译机制](laravel/laravel.md)
 * [Typecho](typecho.md)
   * [1.数据备份工具](1数据备份工具.md)
-* [FrontEndTools](frontendtools.md)
-  * [webpack](frontendtools/webpack.md)
-    * [我要用bootstrap3](frontendtools/webpack/bootstrap3.md)
+* [Design pattern](design-pattern.md)
+  * [1.桥接模式](design-pattern/1..md)
+  * [2.享元模式](design-pattern/2.yuan.md)
+  * [3.外观模式](design-pattern/3..md)
+* [Fundamental Algorithms](fundamental-algorithms.md)
+  * [1.名词](fundamental-algorithms/1..md)
+  * [2.学习方法](fundamental-algorithms/2..md)
+  * [3.渐近记法](fundamental-algorithms/3..md)
+  * [4.图与树的实现](fundamental-algorithms/4..md)
 * [工具库](工具库.md)
   * [1.番剧自动更名](1番剧自动更名.md)
 
