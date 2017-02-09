@@ -18,8 +18,9 @@
     * [1.定位](css/css/1..md)
     * [2.盒子模型](css/css/2..md)
       * [1.border](css/css/2./1.border.md)
-  * [CSS黑魔法](css/css.md)
   * CSS预编辑器
+  * [CSS黑魔法](css/css.md)
+  * CSS有趣的效果
 * [FrontEndTools](frontendtools.md)
   * [webpack](frontendtools/webpack.md)
     * [我要用bootstrap3](frontendtools/webpack/bootstrap3.md)
