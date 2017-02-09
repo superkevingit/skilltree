@@ -18,8 +18,7 @@
     * [1.定位](css/css/1..md)
     * [2.盒子模型](css/css/2..md)
       * [1.border](css/css/2./1.border.md)
-  * CSS3
-  * CSS黑魔法
+  * [CSS黑魔法](css/css.md)
   * CSS预编辑器
 * [FrontEndTools](frontendtools.md)
   * [webpack](frontendtools/webpack.md)
