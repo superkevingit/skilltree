@@ -1,6 +1,6 @@
 # border实现圆角效果
 
-在IE7，8中，dotted类型的边框为圆形
+在IE7-10中，dotted类型的边框为圆形
 
 ```html
 <html>
