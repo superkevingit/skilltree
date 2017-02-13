@@ -16,6 +16,7 @@
 * [CSS](css.md)
   * [CSS基础](css/css.md)
     * [1.定位](css/css/1..md)
+      * [1.float](css/css/1./1.float.md)
     * [2.盒子模型](css/css/2..md)
       * [1.border](css/css/2./1.border.md)
   * [CSS黑魔法](css/css.md)
