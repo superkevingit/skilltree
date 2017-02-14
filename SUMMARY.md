@@ -14,6 +14,8 @@
     * [1.基础](4./1..md)
     * [2.实际用处](4./2..md)
 * [PHP](php.md)
+  * [1.标准库函数](php/1..md)
+    * [Function handling 函数](php/1./function-handling.md)
 * [HTML](html.md)
   * [meta和link](html/metalink.md)
 * [CSS](css.md)
