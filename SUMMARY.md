@@ -13,6 +13,8 @@
   * [4.位运算](4..md)
     * [1.基础](4./1..md)
     * [2.实际用处](4./2..md)
+* [HTML](html.md)
+  * [meta和link](html/metalink.md)
 * [CSS](css.md)
   * [CSS基础](css/css.md)
     * [1.定位](css/css/1..md)
@@ -40,6 +42,5 @@
   * [2.学习方法](fundamental-algorithms/2..md)
   * [3.渐近记法](fundamental-algorithms/3..md)
   * [4.图与树的实现](fundamental-algorithms/4..md)
-* [工具库](工具库.md)
-  * [1.番剧自动更名](1番剧自动更名.md)
+* HTML
 
