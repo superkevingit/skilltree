@@ -33,6 +33,8 @@
   * [laravel缓存和编译机制](laravel/laravel.md)
 * [Typecho](typecho.md)
   * [1.数据备份工具](1数据备份工具.md)
+  * [2.源码解析](2..md)
+    * [I18n.php](2./i18n.php.md)
 * [Design pattern](design-pattern.md)
   * [1.桥接模式](design-pattern/1..md)
   * [2.享元模式](design-pattern/2.yuan.md)
