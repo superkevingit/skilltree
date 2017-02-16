@@ -21,8 +21,7 @@
         "sectionx",
         "expandable-chapters",
         "toc",
-        "back-to-top-button@0.1.0",
-        "toggle-chapters"
+        "back-to-top-button@0.1.0"
     ],
     "pluginsConfig": {
         "disqus": {
