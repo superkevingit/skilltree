@@ -35,6 +35,7 @@
   * [1.数据备份工具](1数据备份工具.md)
   * [2.源码解析](2..md)
     * [I18n.php](2./i18n.php.md)
+  * [3.Typecho PHP 编码规范](3.typecho-php.md)
 * [Laravel](laravel.md)
   * [laravel缓存和编译机制](laravel/laravel.md)
 * [FrontEndTools](frontendtools.md)
