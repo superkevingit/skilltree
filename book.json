@@ -1,3 +1,56 @@
 {
-
+    "title" : "skillTree",
+    "description" : "Sky的技能树",
+    "author" : "Sky",
+    "language" : "zh-hans",
+    "gitbook" : "2.6.4",
+    "links" : {
+        "sidebar" : {
+            "Home" : "https://superkevingit.gitbooks.io/skilltree/content/"
+        }
+    },
+   "plugins": [
+        "disqus",
+        "-search",
+        "search-pro@1.0.7",
+        "github",
+        "ace",
+        "anchors",
+        "mermaid",
+        "tbfed-pagefooter",
+        "sectionx",
+        "expandable-chapters",
+        "toc",
+        "back-to-top-button@0.1.0",
+        "toggle-chapters"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "skillTree"
+        },
+        "github": {
+            "url": "https://github.com/superkevingit/skilltree"
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord": ["gitbook-use"]
+         },
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "instapaper": false,
+             "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy systemctl.me 2017",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }        
+    }
 }
