@@ -31,6 +31,7 @@
     * [Function handling 函数](php/1./function-handling.md)
     * [Array](php/1./array.md)
     * [String](php/1./string.md)
+    * [Mis](php/1./mis.md)
 * [Typecho](typecho.md)
   * [1.数据备份工具](1数据备份工具.md)
   * [2.源码解析](2..md)
