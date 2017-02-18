@@ -7,7 +7,6 @@
 `typecho/var/Typecho/Db.php`
 `typecho/var/Typecho/Db/Query.php`
 `typecho/var/Typecho/Db/Adapter.php`
-`typecho/var/Typecho/Db/Exception.php`
 
 # Db.php
 
@@ -75,5 +74,8 @@ return ($rows = $this->_adapter->fetch($resource)) ?
 
 # Db/Query.php
 
+查询操作构造器
 
+# Db/Adpater.php
 
+数据库通用适配接口
