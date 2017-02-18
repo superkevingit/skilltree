@@ -37,3 +37,9 @@ selectDb(）获取SQL词法构建器实例化对象
 实质是实例化一个Typecho_Db_Query对象，在稍后再详细说明
 
 addServer() 为多数据库提供支持
+
+getVersion() 调用适配器方法，返回数据库版本信息
+
+set()设置一个实例化的Typecho_Db对象给内部$_instance变量
+
+get()
